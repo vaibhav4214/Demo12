@@ -8,6 +8,7 @@ export const twoReducer=(state=twoValue,action)=>
 { 
     switch(action.type)
     {  
+        
         case twoincrement:
             console.log("011")
             return ++state

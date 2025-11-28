@@ -7,6 +7,7 @@ export const oneadd=()=>
         type:onceincrement
     }
 }
+{}
 
 export const oneminus=()=>
 {
